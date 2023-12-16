@@ -4,4 +4,4 @@
 <h3>Avenus SOURCE CODE: https://github.com/umutxyp/Avenus/</h3>
 <hr>
 <h3>
-<h1>Support: https://discord.gg/codes</h1><br>
+<h1>Support: https://discord.gg/hufqwwTutF</h1><br>
